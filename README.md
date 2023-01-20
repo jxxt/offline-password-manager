@@ -2,7 +2,7 @@
 	<a href="https://github.com/jxxt/password-manager">
 		<img src="/pics/logo.png">
 	</a>
-	<h3 align="center">an offline C++ CLI app</h3>
+	<h1 align="center">an offline C++ CLI app</h1>
 	<p  align="center">
 		<a  href="https://github.com/jxxt/password-manager#introduction"><strong>explore the docs »</strong></a>
 		<br />
