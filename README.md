@@ -11,14 +11,14 @@
 		<a  href="https://github.com/jxxt/password-manager#contributing">Report Bug</a>
 		·
 		<a  href="https://github.com/jxxt/password-manager#contributing">Request Feature</a>
-</div>
+</div><br>
 
 ## INTRODUCTION
 * What is a Password Manager?
 A password manager is a software program that helps users store and organize their passwords, and even include additional feature to generate strong and random passwords.
 
 * Why a Password Manager is used?
-A password manager is used to improve the security and convenience of managing online accounts. It helps the users to save their time as they don't have to remember multiple passwords and usernames for different sites.<br>
+A password manager is used to improve the security and convenience of managing online accounts. It helps the users to save their time as they don't have to remember multiple passwords and usernames for different sites.
 
 ## about this PROJECT
 
