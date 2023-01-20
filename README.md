@@ -26,16 +26,16 @@ A password manager is used to improve the security and convenience of managing o
 
 ## USAGE
 * method 1:
-step 1: clone this repository into your system
-step 2: open the cloned repository folder in your desired 'file explorer'
+step 1: clone this repository into your system<br>
+step 2: open the cloned repository folder in your desired 'file explorer'<br>
 step 3: run `main.exe` file 
 (this will open already compiled `main.cpp` file into the cmd/pws/bash) 
 
 * method 2:
-step 1: set up C++ into your system (I prefer [this](https://code.visualstudio.com/docs/languages/cpp) method)
-step 2: clone this repository into your system
-step 3: open the cloned repository folder in VS Code
-step 4: open `main.cpp` file from side-bar of VS Code
+step 1: set up C++ into your system (I prefer [this](https://code.visualstudio.com/docs/languages/cpp) method)<br>
+step 2: clone this repository into your system<br>
+step 3: open the cloned repository folder in VS Code<br>
+step 4: open `main.cpp` file from side-bar of VS Code<br>
 step 5: compile and run the opened  `main.cpp` using any code runner extension (I prefer [this](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run))
 
 ## CONTRIBUTING
