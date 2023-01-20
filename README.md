@@ -4,13 +4,13 @@
 	</a>
 	<h3 align="center">an offline C++ CLI app</h3>
 	<p  align="center">
-		<a  href="https://github.com/password-manager"><strong>explore the docs »</strong></a>
+		<a  href="https://github.com/jxxt/password-manager"><strong>explore the docs »</strong></a>
 		<br />
-		<a  href="https://github.com/password-manager">View Demo</a>
+		<a  href="https://github.com/jxxt/password-manager">View Demo</a>
 	·
-		<a  href="https://github.com/password-manager/issues">Report Bug</a>
+		<a  href="https://github.com/jxxt/password-manager/issues">Report Bug</a>
 		·
-		<a  href="https://github.com/password-manager/issues">Request Feature</a>
+		<a  href="https://github.com/jxxt/password-manager/issues">Request Feature</a>
 </div>
 
 ## INTRODUCTION
