@@ -1,16 +1,16 @@
 <div align="center">
-	<a href="https://github.com/jxxt/password-manager">
+	<a href="https://github.com/jxxt/offline-password-manager">
 		<img src="/pics/logo.png">
 	</a>
 	<h1 align="center">an offline C++ CLI app</h1>
 	<p  align="center">
-		<a  href="https://github.com/jxxt/password-manager#introduction"><strong>explore the docs »</strong></a>
+		<a  href="https://github.com/jxxt/offline-password-manager#introduction"><strong>explore the docs »</strong></a>
 		<br />
-		<a  href="https://github.com/jxxt/password-manager">View Demo</a>
+		<a  href="https://github.com/jxxt/offline-password-manager">View Demo</a>
 	·
-		<a  href="https://github.com/jxxt/password-manager#contributing">Report Bug</a>
+		<a  href="https://github.com/jxxt/offline-password-manager#contributing">Report Bug</a>
 		·
-		<a  href="https://github.com/jxxt/password-manager#contributing">Request Feature</a>
+		<a  href="https://github.com/jxxt/offline-password-manager#contributing">Request Feature</a>
 </div><br>
 
 ## INTRODUCTION
@@ -22,7 +22,7 @@ A password manager is used to improve the security and convenience of managing o
 
 ## about this PROJECT
 
-[password-manager](https://github.com/jxxt/password-manager) is an offline CLI app purely written in C++. It primarily uses `fstream` C++ library, along with other C++ libraries to use the root folder of `main.cpp` file as a 'database' to  store passwords in `.txt` formatted files. It uses an ecryption-decryption algorithm that helps to save passwords securely to their respectice `.txt` files.
+[offline-password-manager](https://github.com/jxxt/offline-password-manager) is an offline CLI app purely written in C++. It primarily uses `fstream` C++ library, along with other C++ libraries to use the root folder of `main.cpp` file as a 'database' to  store passwords in `.txt` formatted files. It uses an ecryption-decryption algorithm that helps to save passwords securely to their respectice `.txt` files.
 
 ## USAGE
 * method 1 :-<br>
@@ -39,9 +39,9 @@ step 4: open `main.cpp` file from side-bar of VS Code<br>
 step 5: compile and run the opened  `main.cpp` using any code runner extension (I prefer [this](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run))
 
 ## CONTRIBUTING
-* if you find any bug, feel free to report it in the [ISSUES](https://github.com/jxxt/password-manager/issues) section and if you have a fix for it then kindly Pull Request with the correct code and description about the bug and its fix
+* if you find any bug, feel free to report it in the [ISSUES](https://github.com/jxxt/offline-password-manager/issues) section and if you have a fix for it then kindly Pull Request with the correct code and description about the bug and its fix
 
-* if you have a feature update idea, suggest the idea with relevant code (if applicable) through a [Pull Request](https://github.com/jxxt/password-manager/issues)
+* if you have a feature update idea, suggest the idea with relevant code (if applicable) through a [Pull Request](https://github.com/jxxt/offline-password-manager/issues)
 
 ## LICENSE	
 [MIT License](/LICENSE)
