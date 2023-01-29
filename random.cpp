@@ -13,7 +13,7 @@ class Random
 {
 public:
     int index = 0;
-    // char random_password[12];
+
     string random_password;
     string account;
     string username;
@@ -39,8 +39,6 @@ public:
         {
             random_password[i] = 'a' + rand() % 26;
         }
-
-        // random_shuffle(random_password, random_password + 12);
     }
 
     int encryption()
@@ -76,8 +74,6 @@ public:
             cout << "\nenter which account's password it is: ";
             cin >> account;
 
-            // encryption();
-
             ofstream random_pass;
             random_pass.open(username + "_pass_" + account + ".txt");
             random_pass << random_password;
@@ -97,10 +93,3 @@ public:
         }
     }
 };
-
-int main()
-{
-    Random r;
-    r.random__password();
-    return 0;
-}

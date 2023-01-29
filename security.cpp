@@ -183,12 +183,3 @@ public:
         }
     }
 };
-
-// int main()
-// {
-//     decryption d;
-//     d.print();
-//     d.option();
-
-//     cout << user_name;
-// }

@@ -1,5 +1,4 @@
 #include <iostream>
-// #include "save.cpp"
 #include "view.cpp"
 
 using namespace std;
@@ -14,7 +13,6 @@ public:
         cout << "\n\nwhat do you want to perform?";
         cout << "\n1. save new password";
         cout << "\n2. view saved password";
-        // cout << "\n3. suggest random password";
         cout << "\n3. exit";
     }
 
@@ -48,9 +46,3 @@ public:
         }
     }
 };
-
-// int main()
-// {
-//     Menu m;
-//     m.work();
-// }

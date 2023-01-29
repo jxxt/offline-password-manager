@@ -15,7 +15,6 @@ public:
     char choice3;
     char choice4;
 
-    // string user_name;
     string pw;
     string user_name_array;
     string pw_array;

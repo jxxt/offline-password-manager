@@ -164,12 +164,3 @@ public:
         }
     }
 };
-
-// int main()
-// {
-//     Save s;
-//     s.account_input();
-//     s.saving();
-
-//     return 0;
-// }

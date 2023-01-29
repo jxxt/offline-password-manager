@@ -92,10 +92,3 @@ public:
         }
     }
 };
-
-// int main()
-// {
-//     View v;
-//     v.viewing();
-//     return 0;
-// }
